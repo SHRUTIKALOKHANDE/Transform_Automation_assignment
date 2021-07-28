@@ -1,3 +1,27 @@
+## Transform_Automation_assignment
+
+Here are the some screenshots
+
+## '/resource' page
+#Desktop View
+
+
+#Mobile View
+
+
+### Features
+
+1.There will be 2 routes in the react app
+   /resources
+   /resources/{id} 
+2.On click of any of the box in the grid, the app should redirect to the detailed
+component below.
+3. When the user directly accesses the app using the react app link like
+http://localhost:3000/resources/1, then the app should hit the above detailed API
+and show the only one big Box on the page with Pantone value. However, if the
+user is on the grid page and clicks on a box in the grid, then the browser
+URL(route) should change with the id of the box.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
