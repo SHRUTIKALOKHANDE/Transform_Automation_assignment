@@ -2,12 +2,23 @@
 
 Here are the some screenshots
 
-## '/resource' page
+## '/resources' page
 #Desktop View
 
+![Screenshot_2021-07-28 Transform_Automation Assignment](https://user-images.githubusercontent.com/30066889/127324190-de9b57c1-d5cb-4614-a310-2f00bb307ac7.png)
 
 #Mobile View
 
+![Screenshot_2021-07-28 Transform_Automation Assignment(1)](https://user-images.githubusercontent.com/30066889/127324246-dee93105-dac0-4f01-abca-febb2a84c9aa.png)
+
+## '/resources/id' page
+#Desktop View
+
+![Screenshot_2021-07-28 Transform_Automation Assignment(2)](https://user-images.githubusercontent.com/30066889/127324292-a507394b-26af-4525-8a22-960dea84a1a8.png)
+
+#Mobile View
+
+![Screenshot_2021-07-28 Transform_Automation Assignment(3)](https://user-images.githubusercontent.com/30066889/127324325-c72967cd-5caa-4894-ba42-b09337a2b73a.png)
 
 ### Features
 
