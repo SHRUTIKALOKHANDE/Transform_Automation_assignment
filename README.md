@@ -7,8 +7,8 @@ Here are the some screenshots
 ![Screenshot_2021-07-28 Transform_Automation Assignment](https://user-images.githubusercontent.com/30066889/127324190-de9b57c1-d5cb-4614-a310-2f00bb307ac7.png)
 
 #Mobile View
-![Screenshot_2021-07-28 Transform_Automation Assignment(2)](https://user-images.githubusercontent.com/30066889/127324292-a507394b-26af-4525-8a22-960dea84a1a8.png)
 
+![Screenshot_2021-07-28 Transform_Automation Assignment(2)](https://user-images.githubusercontent.com/30066889/127324292-a507394b-26af-4525-8a22-960dea84a1a8.png)
 
 ## '/resources/id' page
 #Desktop View
